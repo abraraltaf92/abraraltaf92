@@ -2,9 +2,7 @@
 <p align='center'>I am a flutter developer who is passionate about building cool stuff with flutter. I am actively looking for opportunities to improve my growth in the field.</p>
 
 <p align='center'>
-<a href="https://twitter.com/abraraltaf92">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>&nbsp;&nbsp;
+
 <a href="mailto:abraraltaf92@icloud.com">
   <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
@@ -13,6 +11,9 @@
 </a>&nbsp;&nbsp;
   <a href="https://abrar-altaf92.web.app">
   <img src="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22" />
+</a>&nbsp;&nbsp;
+<a href="https://twitter.com/abraraltaf92">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>
 
