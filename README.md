@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/abraraltaf92/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
-<!-- <img src="https://gpvc.arturio.dev/o-ifeanyi" /> -->
+
 </p>
 
 - 👨🏽‍💻 Currently working as a Flutter App Developer in a webServices Startup 🤞🏽.
