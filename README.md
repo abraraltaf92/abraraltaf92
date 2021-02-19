@@ -26,6 +26,9 @@
 - ⚡ Fun fact: 🤷🏽‍♂️
 - 😊 My Day 1 app : [Click here](https://drive.google.com/file/d/1x9h8zgu-JdBxkFgSL4SAg1EvP5hnMIKj/view?usp=sharing)
 - 😊 My recent app(Tic Tac Toe) : [Click here](https://github.com/abraraltaf92/tic_tac_toe/releases/download/v0.1-alpha/tic_tac_toe_v0.1-alpha.apk)
+- [![trophy](https://github-profile-trophy.vercel.app/?username=abraraltaf92&theme=onedark&row=2&column=3)](https://github.com/abraraltaf92/github-profile-trophy)
+
+
 ---
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
