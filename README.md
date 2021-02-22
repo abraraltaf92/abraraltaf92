@@ -25,8 +25,8 @@
 - 💬 Ask me about flutter/dart
 - ⚡ Fun fact: 🤷🏽‍♂️
 - 😊 My Day 1 app : [Click here](https://drive.google.com/file/d/1x9h8zgu-JdBxkFgSL4SAg1EvP5hnMIKj/view?usp=sharing)
-- 😊 My recent app(Tic Tac Toe) : [Click here](https://github.com/abraraltaf92/tic_tac_toe/releases/download/v0.1-alpha/tic_tac_toe_v0.1-alpha.apk)
-- [![trophy](https://github-profile-trophy.vercel.app/?username=abraraltaf92&theme=onedark&row=2&column=3)](https://github.com/abraraltaf92/github-profile-trophy)
+- 😊 My recent app(Tic tac Toe) : <br> <a href="https://play.google.com/store/apps/details?id=com.abraraltaf.tic_tac_toe"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200"></img></a>
+
 
 
 ---
