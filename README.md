@@ -25,7 +25,7 @@
 - 💬 Ask me about flutter/dart
 - ⚡ Fun fact: 🤷🏽‍♂️
 - 😊 My Day 1 app : [Click here](https://drive.google.com/file/d/1x9h8zgu-JdBxkFgSL4SAg1EvP5hnMIKj/view?usp=sharing)
-- 😊 My recent app(Tic tac Toe) : <br> <a href="https://play.google.com/store/apps/details?id=com.abraraltaf.tic_tac_toe"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200"></img></a>
+- 😊 My recent app(Tic tac Toe) : <br> <a href="https://play.google.com/store/apps/details?id=com.abraraltaf.tic_tac_toe"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200"></img></a><br> <a href="https://apps.apple.com/us/app/abrars-tic-tac-toe/id1563476661"><img src="https://digital.cigna.com/static/digital-cigna-com/img/apple-app-store-badge.svg" width="200" height= "50"></img></a>
 
 
 
