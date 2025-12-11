@@ -57,6 +57,6 @@ I build intelligent systems at the intersection of **AI, data engineering, produ
 
 ## 📫 Connect With Me  
 🔗 LinkedIn: www.linkedin.com/in/abraraltaf92  
-📧 Email: al32918n@pace.edu  
+📧 Email: abrar@bibloapp.com  
 
 Thanks for dropping by!  
