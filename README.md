@@ -15,22 +15,22 @@ I build intelligent systems at the intersection of **AI, data engineering, produ
   - Contributed to **Circle to Search** in Samsung AI  
   - Part of testing team for **Galaxy Z Fold 5**
 
-- 🏗️ **Founder of [AI BYTEHUB Private Limited](www.aibytehub.com)**
+- 🏗️ **Founder of [AI BYTEHUB Private Limited](https://www.aibytehub.com)**
   Delivered 20+ digital solutions (web/app) for healthcare & SMB clients — boosting organic traffic, conversions & operational efficiency.
 
-- 📚 **Founder of [Biblo](www.bibloapp.com)**  
+- 📚 **Founder of [Biblo](https://www.bibloapp.com)**  
   A community-driven platform connecting readers with indie bookstores.  
   3,500+ early readers · 1,200+ waitlist signups.
 
 - ✍️ **Author — _The Day I Met a Revolution_**  
   Sold 2,000 copies in the first two hours.  
-  Featured in Mid-Day India.
+  Featured in Mid-Day India [Link](https://teams.microsoft.com/l/message/19:9189b74d-8940-4342-875a-ed7da8a7f0cf_b61f4cd2-caf8-4b5e-b581-f4ba60b9923e@unq.gbl.spaces/1765350009471?context=%7B%22contextType%22%3A%22chat%22%7D).
 
 ---
 
 ## 🔧 Tech Stack  
 **Languages**: Python, C++, JavaScript/TypeScript, Dart (Flutter), PHP  
-**ML/AI**: PyTorch, TensorFlow, Sklearn, NLP, CNNs, Reinforcement Learning  
+**ML/AI**: PyTorch, TensorFlow, Sklearn, NLP, CNNs, Reinforcement Learning, n8n AI Agents  
 **Data**: SQL, Pandas, NumPy, PySpark  
 **Cloud/DevOps**: AWS, Git  
 **Databases**: MySQL · PostgreSQL · MongoDB · InfluxDB  
