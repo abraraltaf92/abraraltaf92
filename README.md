@@ -20,7 +20,7 @@ I build intelligent systems at the intersection of **AI, data engineering, produ
 
 - 📚 **Founder of [Biblo](https://www.bibloapp.com)**  
   A community-driven platform connecting readers with indie bookstores.  
-  3,500+ early readers · 1,200+ waitlist signups.
+  200+ early readers · 50+ waitlist signups.
 
 - ✍️ **Author — _The Day I Met a Revolution_**  
   Sold 2,000 copies in the first two hours.  
