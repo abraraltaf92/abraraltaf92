@@ -15,7 +15,7 @@ I build intelligent systems at the intersection of **AI, data engineering, produ
   - Contributed to **Circle to Search** in Samsung AI  
   - Part of testing team for **Galaxy Z Fold 5**
 
-- 🏗️ **Founder of [AI BYTEHUB Private Limited](https://www.aibytehub.com)**
+- 🏗️ **Founder of [AIBYTE HUB Private Limited](https://www.aibytehub.com)**
   Delivered 20+ digital solutions (web/app) for healthcare & SMB clients — boosting organic traffic, conversions & operational efficiency.
 
 - 📚 **Founder of [Biblo](https://www.bibloapp.com)**  
