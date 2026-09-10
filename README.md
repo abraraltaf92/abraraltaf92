@@ -1,62 +1,57 @@
-# 👋 Hi, I’m Abrar Altaf Lone  
+# 👋 Hi, I'm Abrar Altaf Lone
 
-I’m a **Data Scientist & Software Engineer** currently pursuing my **MS in Data Science at Pace University, New York**.  
-I build intelligent systems at the intersection of **AI, data engineering, product thinking, and full-stack development**.
-
----
-
-## 🚀 About Me  
-- 🧠 **Data Engineering Intern @ Affordable Charter, NYC**  
-  Designed ETL pipelines, web analytics systems, SEO data workflows, and built data-driven website features from scratch.
-
-- 🛜 **Former Software Engineer @ Samsung R&D India**  
-  - Contributed to 6G-focused network modules  
-  - Improved system performance & reliability  
-  - Contributed to **Circle to Search** in Samsung AI  
-  - Part of testing team for **Galaxy Z Fold 5**
-
-- 🏗️ **Founder of [AIBYTE HUB Private Limited](https://www.aibytehub.com)**
-  Delivered 20+ digital solutions (web/app) for healthcare & SMB clients — boosting organic traffic, conversions & operational efficiency.
-
-- 📚 **Founder of [Biblo](https://www.bibloapp.com)**  
-  A community-driven platform connecting readers with indie bookstores.  
-  200+ early readers · 50+ waitlist signups.
-
-- ✍️ **Author — _The Day I Met a Revolution_**  
-  Sold 2,000 copies in the first two hours.  
-  Featured in Mid-Day India [Link](https://teams.microsoft.com/l/message/19:9189b74d-8940-4342-875a-ed7da8a7f0cf_b61f4cd2-caf8-4b5e-b581-f4ba60b9923e@unq.gbl.spaces/1765350009471?context=%7B%22contextType%22%3A%22chat%22%7D).
+**Data / ML Engineer** with an M.S. in Data Science from **Pace University, New York**.
+I build and ship data and ML systems end to end — from pipelines and models to
+deployment — with a strong focus on making things that actually work in production.
 
 ---
 
-## 🔧 Tech Stack  
-**Languages**: Python, C++, JavaScript/TypeScript, Dart (Flutter), PHP  
-**ML/AI**: PyTorch, TensorFlow, Sklearn, NLP, CNNs, Reinforcement Learning, n8n AI Agents  
-**Data**: SQL, Pandas, NumPy, PySpark  
-**Cloud/DevOps**: AWS, Git  
-**Databases**: MySQL · PostgreSQL · MongoDB · InfluxDB  
-**Web**: Next.js · Laravel  
-**Visualization**: Matplotlib · Seaborn · Plotly  
+## 🚀 Featured Projects
+
+### 🎯 [Deepfake Detection System](https://deepfakedetection.xyz) — *deployed, self-hosted*
+A live multi-model deepfake-detection service I built and host myself.
+- 5-model deep-learning ensemble (ResNet-18, EfficientNet-B4, R3D-18, ViT-B/16, R3D-18+RAFT) with calibrated soft-voting — cut the cross-dataset generalization gap ~27% (FaceForensics++ → Celeb-DF)
+- FastAPI backend on **AWS EC2 (GPU, Docker)**, Next.js frontend on Vercel, model weights versioned on Hugging Face Hub
+- Includes a documented **negative result** (a frequency-domain detector that learned codec artifacts, not forgery signals — excluded from production)
+- 🔗 Live demo: [deepfakedetection.xyz](https://deepfakedetection.xyz)
+
+### 🏗️ [Biblo Data Pipeline](https://github.com/abraraltaf92/biblo-data-pipeline) — *end-to-end data engineering*
+The data backend for Biblo — answers "which independent bookstore near me carries this book?"
+- Multi-source ingestion (OpenStreetMap + Open Library) into a **PostgreSQL** warehouse
+- Modeled with **dbt** into a star schema (`dim_bookstore`, `dim_book`, `fact_inventory`) with **16 data-quality tests**
+- Orchestrated with **Airflow**, fully containerized with **Docker**
+- Idempotent, re-runnable, production-style pipeline
+
+### 🚌 [NYC School Bus Delay Prediction](https://github.com/abraraltaf92)
+- Processed 1.2M+ NYC DOE incident records in Python for delay regression + severity classification
+- XGBoost models (R² 0.64; 96% classification accuracy) benchmarked against baselines
 
 ---
 
-## 📌 Current Work  
-- Applying **ML + full-stack engineering** to real-world problems  
-- Building scalable, data-driven web platforms  
-- Working on **multimodal machine learning & generative AI projects**  
-- Designing Biblo’s app experience through UX research & prototyping  
+## 💼 Experience
+
+- **Data Engineering Intern @ Affordable Charter (NYC)** — built end-to-end ETL pipelines (Python, SQL, Pandas) and automated dashboards with data-validation checks.
+- **Software Engineer @ Samsung R&D India** — worked on production Samsung Galaxy systems, including AI-driven imaging features (multi-frame low-light processing) for flagship devices, within cross-functional engineering teams.
+- **Founder — [Biblo](https://www.bibloapp.com)** — building a two-sided marketplace connecting readers with independent bookstores. 50+ waitlist signups from an in-person startup showcase at Pace University.
+- **Founder — AIByte Hub** — independent practice delivering 20+ web and app projects for clients across healthcare, transportation, and logistics.
+- **Author — _The Day I Met a Revolution_** — a book on artificial intelligence.
 
 ---
 
-## 📈 What I Care About  
-- Building **useful products**, not just models  
-- Clean, scalable engineering  
-- Combining **AI + software + design**  
-- Solving problems for real users  
+## 🔧 Tech Stack
+
+**Languages:** Python · SQL · JavaScript/TypeScript · R
+**Data Engineering:** ETL/ELT · dbt · Airflow · PySpark · Pandas · data modeling · data quality
+**ML / AI:** PyTorch · TensorFlow · scikit-learn · XGBoost · CNNs/ViT · model ensembling
+**Cloud & Infra:** AWS (EC2) · Docker · FastAPI · Git · Linux
+**Databases:** PostgreSQL · MySQL · MongoDB · InfluxDB
 
 ---
 
-## 📫 Connect With Me  
-🔗 LinkedIn: www.linkedin.com/in/abraraltaf92  
-📧 Email: abrar@bibloapp.com  
+## 📫 Connect
 
-Thanks for dropping by!  
+🔗 LinkedIn: [linkedin.com/in/abraraltaf92](https://www.linkedin.com/in/abraraltaf92)
+🌐 Portfolio: [abraraltaflone.com](https://abraraltaflone.com)
+📧 Email: abraraltaf92@gmail.com
+
+Thanks for stopping by!
